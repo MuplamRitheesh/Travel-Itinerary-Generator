@@ -60,8 +60,9 @@ project-root/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/MuplamRitheesh/Travel-Itinerary-Generator.git
+cd Travel-Itinerary-Generator
+
 ```
 
 ### 2️⃣ Install Dependencies
@@ -84,6 +85,7 @@ The application can be deployed using:
 
 * Streamlit Cloud
 * Render
+* Deployment link:https://travel-itinerary-generator-3qfj.onrender.com
 
 ---
 
